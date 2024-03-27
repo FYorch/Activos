@@ -1,2 +1,1 @@
-# Activos
-ACTIVOS FIJOS
+
