@@ -1,0 +1,41 @@
+/* CSS DATOS PRODUCTOS */ 
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.producto-image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.producto-image img {
+    max-width: 700px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.producto-detalles {
+    margin-bottom: 20px;
+}
+
+.producto-detalles p {
+    margin: 0 0 10px;
+}
+
+.btn {
+    margin-right: 10px;
+}
